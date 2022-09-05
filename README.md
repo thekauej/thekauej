@@ -1,4 +1,7 @@
-### Olá, eu sou o Kaue!
+<h1>Olá, eu sou o Kaue!</h1>
+<h3>Analista de Sistemas, estudante de programação!!!</h3>
+
+##
 
 <div align="center">
   <a href="https://github.com/thekauej">
