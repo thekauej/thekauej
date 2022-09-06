@@ -18,6 +18,12 @@
   
 ##
 
+<div align="center">
+  <h3>Visitantes: <img align="center" src="https://profile-counter.glitch.me/thekauej/count.svg" /></h3>
+</div>
+
+##
+
   ![Snake animation](https://github.com/thekauej/thekauej/blob/output/github-contribution-grid-snake.svg)
 
 <!--
