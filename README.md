@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200em" align="center" src="https://user-images.githubusercontent.com/39250586/189167451-2ff87b80-7169-4ba4-b748-bdf15a502c8d.png"/>
+  <img height="200em" width="100%" align="center" src="https://user-images.githubusercontent.com/39250586/189167451-2ff87b80-7169-4ba4-b748-bdf15a502c8d.png"/>
   <h1>Kaue Jorge</h1>
 </div>
 <!--![Home Design (1)](https://user-images.githubusercontent.com/39250586/189167451-2ff87b80-7169-4ba4-b748-bdf15a502c8d.png)-->
