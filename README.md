@@ -1,7 +1,8 @@
 <div align="center">
-  <img height="200em" align="center" src="https://user-images.githubusercontent.com/39250586/189166219-cc71f235-6a0a-48f9-8f6a-64d784d4a6e2.png"/>
+  <img height="200em" align="center" src="https://user-images.githubusercontent.com/39250586/189167451-2ff87b80-7169-4ba4-b748-bdf15a502c8d.png"/>
   <h1>Kaue Jorge</h1>
 </div>
+<!--![Home Design (1)](https://user-images.githubusercontent.com/39250586/189167451-2ff87b80-7169-4ba4-b748-bdf15a502c8d.png)-->
 
 
 <h3>Analista de Sistemas, estudante de programação!!!</h3>
