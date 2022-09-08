@@ -1,4 +1,9 @@
-<h1>Olá, eu sou o Kaue!</h1>
+<div align="center">
+  <img height="200em" align="center" src="https://user-images.githubusercontent.com/39250586/189166219-cc71f235-6a0a-48f9-8f6a-64d784d4a6e2.png"/>
+  <h1>Kaue Jorge</h1>
+</div>
+
+
 <h3>Analista de Sistemas, estudante de programação!!!</h3>
 
 ##
