@@ -5,7 +5,7 @@
 <!--![Home Design (1)](https://user-images.githubusercontent.com/39250586/189167451-2ff87b80-7169-4ba4-b748-bdf15a502c8d.png)-->
 
 
-<h3>Analista de Sistemas, estudante de programação!!!</h3>
+<h3>Analista de Suporte, estudante de programação!!!</h3>
 
 ##
 
@@ -18,7 +18,7 @@
 ##
 
 <div align="center"> 
-  <a href="https://instagram.com/thekauej" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/okauejorge" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:thekauej@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thekauej/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
